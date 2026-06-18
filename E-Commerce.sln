@@ -15,9 +15,12 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Catalog.Application", "Serv
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Catalog.Infrustrucure", "Services\Catalog\Catalog.Infrustrucure\Catalog.Infrustrucure.csproj", "{26E9C5DA-570B-4D83-8808-3F9462C15DE8}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Order", "Order", "{C19EB289-AF84-4233-BDFD-8EE570AFE99F}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".github", ".github", "{3644D8AF-BAFC-4548-BD76-98E0121620BC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Order.Api", "Services\Order.Api\Order.Api.csproj", "{000DABE9-E697-4D5F-98F1-8A74E05F7906}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "workflows", "workflows", "{7AEA8EE5-1A91-42FC-855E-45F089F893D8}"
+	ProjectSection(SolutionItems) = preProject
+		catalog.ci.yaml = catalog.ci.yaml
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -41,10 +44,6 @@ Global
 		{26E9C5DA-570B-4D83-8808-3F9462C15DE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{26E9C5DA-570B-4D83-8808-3F9462C15DE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{26E9C5DA-570B-4D83-8808-3F9462C15DE8}.Release|Any CPU.Build.0 = Release|Any CPU
-		{000DABE9-E697-4D5F-98F1-8A74E05F7906}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{000DABE9-E697-4D5F-98F1-8A74E05F7906}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{000DABE9-E697-4D5F-98F1-8A74E05F7906}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{000DABE9-E697-4D5F-98F1-8A74E05F7906}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -55,8 +54,7 @@ Global
 		{A8691041-E997-469D-8EB4-18255F1FEC78} = {F6CC208C-3627-4D0A-B362-5EFDB5E3C548}
 		{0620B637-EFCE-4E70-82CE-CC405462666C} = {F6CC208C-3627-4D0A-B362-5EFDB5E3C548}
 		{26E9C5DA-570B-4D83-8808-3F9462C15DE8} = {F6CC208C-3627-4D0A-B362-5EFDB5E3C548}
-		{C19EB289-AF84-4233-BDFD-8EE570AFE99F} = {5CCC08DD-9DF6-491C-B40E-B7778DE81787}
-		{000DABE9-E697-4D5F-98F1-8A74E05F7906} = {C19EB289-AF84-4233-BDFD-8EE570AFE99F}
+		{7AEA8EE5-1A91-42FC-855E-45F089F893D8} = {3644D8AF-BAFC-4548-BD76-98E0121620BC}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {CAF0AC8C-3A34-4CD8-81AE-EB1BFD5F9C5D}

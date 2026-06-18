@@ -1,0 +1,26 @@
+name: Catalog Service CI
+
+on:
+  push:
+    branches: ["main", "develop"]
+  pull_request:
+    branches: ["main"]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+
+    - name: Setup .NET
+      uses: actions/setup-dotnet@v4
+      with:
+        dotnet-version: '7.0'
+
+    - name: Restore dependencies
+      run: dotnet restore Services/Catalog/Catlog.Api/Catlog.Api.csproj
+
+    - name: Build Catalog Service
+      run: dotnet build Services/Catalog/Catalog.API/Catlog.Api.csproj --configuration Release --no-restore

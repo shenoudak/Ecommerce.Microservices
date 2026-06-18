@@ -1,0 +1,15 @@
+F:\Revision_Concepts_DotNet\E-Commerce\Services\Catalog\Catalog.Application\bin\Debug\net7.0\Catalog.Application.deps.json
+F:\Revision_Concepts_DotNet\E-Commerce\Services\Catalog\Catalog.Application\bin\Debug\net7.0\Catalog.Application.dll
+F:\Revision_Concepts_DotNet\E-Commerce\Services\Catalog\Catalog.Application\bin\Debug\net7.0\Catalog.Application.pdb
+F:\Revision_Concepts_DotNet\E-Commerce\Services\Catalog\Catalog.Application\obj\Debug\net7.0\Catalog.Application.csproj.AssemblyReference.cache
+F:\Revision_Concepts_DotNet\E-Commerce\Services\Catalog\Catalog.Application\obj\Debug\net7.0\Catalog.Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\Revision_Concepts_DotNet\E-Commerce\Services\Catalog\Catalog.Application\obj\Debug\net7.0\Catalog.Application.AssemblyInfoInputs.cache
+F:\Revision_Concepts_DotNet\E-Commerce\Services\Catalog\Catalog.Application\obj\Debug\net7.0\Catalog.Application.AssemblyInfo.cs
+F:\Revision_Concepts_DotNet\E-Commerce\Services\Catalog\Catalog.Application\obj\Debug\net7.0\Catalog.Application.csproj.CoreCompileInputs.cache
+F:\Revision_Concepts_DotNet\E-Commerce\Services\Catalog\Catalog.Application\obj\Debug\net7.0\Catalog.Application.dll
+F:\Revision_Concepts_DotNet\E-Commerce\Services\Catalog\Catalog.Application\obj\Debug\net7.0\refint\Catalog.Application.dll
+F:\Revision_Concepts_DotNet\E-Commerce\Services\Catalog\Catalog.Application\obj\Debug\net7.0\Catalog.Application.pdb
+F:\Revision_Concepts_DotNet\E-Commerce\Services\Catalog\Catalog.Application\obj\Debug\net7.0\ref\Catalog.Application.dll
+F:\Revision_Concepts_DotNet\E-Commerce\Services\Catalog\Catalog.Application\bin\Debug\net7.0\Catalog.Core.dll
+F:\Revision_Concepts_DotNet\E-Commerce\Services\Catalog\Catalog.Application\bin\Debug\net7.0\Catalog.Core.pdb
+F:\Revision_Concepts_DotNet\E-Commerce\Services\Catalog\Catalog.Application\obj\Debug\net7.0\Catalog.Application.csproj.CopyComplete
